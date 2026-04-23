@@ -1,22 +1,7 @@
-# Personal Ops Tracker 🚀
+# VocalOps: Audio-to-Tree Task Pipeline 🚀
 
-**Production-grade task/project management API** built over 16 weeks. From CLI prototype to AWS-deployed backend.
+## Overview
+**VocalOps** is a backend system that converts unstructured voice recordings into structured, hierarchical task trees. It automates transcription, semantic parsing, and task organization into multi-level project hierarchies.
 
-## 🎯 What it does
-- Users manage **projects** and **tasks**
-- **Role-based access** (owner, member, viewer)
-- **Real-world features**: deadlines, priorities, comments, activity logs
-- **Production stack**: NestJS, PostgreSQL, Docker, AWS, Terraform, CI/CD
-
-## 🛠️ Tech Stack
-Frontend: None (API-first)
-Backend: TypeScript + NestJS + Node.js
-Database: PostgreSQL
-DevOps: Docker, GitHub Actions, AWS, Terraform
-API Docs: Swagger/OpenAPI
-
-## 🤝 Contributing
-See [CONTRIBUTING.md](CONTRIBUTING.md)
-
-## 📄 License
-MIT
+## WIP
+This project is still a work-in-progress and I will document more as I add more features.
